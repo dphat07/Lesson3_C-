@@ -1,0 +1,14 @@
+D:\Unity_Learn\Lesson3_C#\bin\Debug\net8.0\Lesson3_C#.exe
+D:\Unity_Learn\Lesson3_C#\bin\Debug\net8.0\Lesson3_C#.deps.json
+D:\Unity_Learn\Lesson3_C#\bin\Debug\net8.0\Lesson3_C#.runtimeconfig.json
+D:\Unity_Learn\Lesson3_C#\bin\Debug\net8.0\Lesson3_C#.dll
+D:\Unity_Learn\Lesson3_C#\bin\Debug\net8.0\Lesson3_C#.pdb
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\Lesson3_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\Lesson3_C#.AssemblyInfoInputs.cache
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\Lesson3_C#.AssemblyInfo.cs
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\Lesson3_C#.csproj.CoreCompileInputs.cache
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\Lesson3_C#.dll
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\refint\Lesson3_C#.dll
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\Lesson3_C#.pdb
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\Lesson3_C#.genruntimeconfig.cache
+D:\Unity_Learn\Lesson3_C#\obj\Debug\net8.0\ref\Lesson3_C#.dll
